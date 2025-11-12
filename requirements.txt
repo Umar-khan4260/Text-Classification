@@ -1,9 +1,3 @@
-torch>=2.0.0
-transformers>=4.30.0
-peft>=0.4.0
-scikit-learn>=1.2.0
-numpy>=1.21.0
-streamlit>=1.24.0
-sentencepiece>=0.1.99
-protobuf>=3.20.0
-accelerate>=0.20.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:b74ded3f68b372b34922cf653df392616281c591dcc060e32764fc9eaa65a127
+size 165
